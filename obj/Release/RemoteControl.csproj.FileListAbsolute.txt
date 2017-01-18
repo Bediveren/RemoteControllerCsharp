@@ -1,0 +1,16 @@
+C:\Programming\C#\Studies\RemoteControl\bin\Release\RemoteControl.exe.config
+C:\Programming\C#\Studies\RemoteControl\bin\Release\RemoteControl.exe
+C:\Programming\C#\Studies\RemoteControl\bin\Release\RemoteControl.pdb
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.SetupForm.resources
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.Properties.Resources.resources
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.ViewerForm.resources
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.csproj.GenerateResource.Cache
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.exe
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.pdb
+C:\Programming\C#\Studies\RemoteControl\bin\Release\System.Net.Http.dll
+C:\Programming\C#\Studies\RemoteControl\bin\Release\System.Net.Http.xml
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.HostForm.resources
+C:\Programming\C#\Studies\RemoteControl\bin\Release\InputSimulator.dll
+C:\Programming\C#\Studies\RemoteControl\bin\Release\InputSimulator.pdb
+C:\Programming\C#\Studies\RemoteControl\bin\Release\InputSimulator.xml
+C:\Programming\C#\Studies\RemoteControl\obj\Release\RemoteControl.csprojResolveAssemblyReference.cache

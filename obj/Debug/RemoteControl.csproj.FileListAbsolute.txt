@@ -1,0 +1,16 @@
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\RemoteControl.exe.config
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.Properties.Resources.resources
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.csproj.GenerateResource.Cache
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\RemoteControl.exe
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\RemoteControl.pdb
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.exe
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.pdb
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.SetupForm.resources
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.ViewerForm.resources
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\System.Net.Http.dll
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\System.Net.Http.xml
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.HostForm.resources
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\InputSimulator.dll
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\InputSimulator.pdb
+C:\Programming\C#\Studies\RemoteControl\bin\Debug\InputSimulator.xml
+C:\Programming\C#\Studies\RemoteControl\obj\Debug\RemoteControl.csprojResolveAssemblyReference.cache
