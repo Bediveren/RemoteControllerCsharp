@@ -1,7 +1,7 @@
 # RemoteControllerCsharp
 
 Simple remote control client/server written in C#. Done using WinForms.  
-Requires .NET 4.0 and above.    
+Requires .NET 4.0 or above.    
 
 USAGE:  
 
