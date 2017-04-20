@@ -6,7 +6,7 @@ Requires .NET 4.0 and above.
 USAGE:  
 
 * Main window  
-![alt tag](http://imgur.com/QnKQ7NM)  
+![alt tag](https://cloud.githubusercontent.com/assets/24376768/25250646/27dc6248-261f-11e7-9016-fe4c51ef42df.PNG)  
 
 One client creates server, other connects to the server.
 
